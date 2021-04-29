@@ -1,3 +1,6 @@
+# Note-Apps
+Build API with NodeJS, and Heroku <br><br>
+
 [UI Testing](http://ec2-13-212-153-62.ap-southeast-1.compute.amazonaws.com:8000/) 
 
 ## Tools Used
@@ -9,4 +12,4 @@
 - [NanoID](https://github.com/ai/nanoid) 
 
 ## Code Style Used
-- [AirBnB](https://github.com/airbnb/javascript)
+- [AirBnB](https://github.com/airbnb/javascript) // dev

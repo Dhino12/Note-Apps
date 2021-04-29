@@ -13,3 +13,12 @@ Build API with NodeJS, and Heroku <br><br>
 
 ## Code Style Used
 - [AirBnB](https://github.com/airbnb/javascript) // dev
+
+## Response Note API
+| Method    | Path                                |
+| ----------| ----------------------------------  |
+| POST      | `http://localhost:5000/notes     `  |
+| GET       | `http://localhost:5000/notes     `  | 
+| GET by ID | `http://localhost:5000/notes/noteID`|
+| PUT/UPDATE| `http://localhost:5000/notes/noteID`|
+| DELETE    | `http://localhost:5000/notes/noteID`|

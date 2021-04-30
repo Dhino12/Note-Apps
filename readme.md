@@ -18,8 +18,8 @@ Build API with NodeJS, and Heroku <br><br>
 Endpoint = https://simple-note-apps.herokuapp.com <br> 
 | Method    | Path                                |
 | ----------| ----------------------------------  |
-| POST      | `https://simple-note-apps.herokuapp.com/notes `  |
-| GET       | `https://simple-note-apps.herokuapp.com/notes`  | 
-| GET by ID | `https://simple-note-apps.herokuapp.com/notes/noteId`|
-| PUT/UPDATE| `https://simple-note-apps.herokuapp.com/notes/noteId`|
-| DELETE    | `https://simple-note-apps.herokuapp.com/notes/noteId`|
+| POST      | https://simple-note-apps.herokuapp.com/notes   |
+| GET       | https://simple-note-apps.herokuapp.com/notes  | 
+| GET by ID | https://simple-note-apps.herokuapp.com/notes/noteId|
+| PUT/UPDATE| https://simple-note-apps.herokuapp.com/notes/noteId|
+| DELETE    | https://simple-note-apps.herokuapp.com/notes/noteId|

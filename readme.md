@@ -15,10 +15,11 @@ Build API with NodeJS, and Heroku <br><br>
 - [AirBnB](https://github.com/airbnb/javascript) // dev
 
 ## Response Note API
+Endpoint = https://simple-note-apps.herokuapp.com <br> 
 | Method    | Path                                |
 | ----------| ----------------------------------  |
-| POST      | `http://localhost:5000/notes     `  |
-| GET       | `http://localhost:5000/notes     `  | 
-| GET by ID | `http://localhost:5000/notes/noteID`|
-| PUT/UPDATE| `http://localhost:5000/notes/noteID`|
-| DELETE    | `http://localhost:5000/notes/noteID`|
+| POST      | `https://simple-note-apps.herokuapp.com/notes `  |
+| GET       | `https://simple-note-apps.herokuapp.com/notes`  | 
+| GET by ID | `https://simple-note-apps.herokuapp.com/notes/noteId`|
+| PUT/UPDATE| `https://simple-note-apps.herokuapp.com/notes/noteId`|
+| DELETE    | `https://simple-note-apps.herokuapp.com/notes/noteId`|

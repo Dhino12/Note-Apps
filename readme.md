@@ -2,6 +2,7 @@
 Build API with NodeJS, and Heroku <br><br>
 
 [UI Testing](http://ec2-13-212-153-62.ap-southeast-1.compute.amazonaws.com:8000/) 
+[UI Testing v2](http://notesapp-v1.dicodingacademy.com/)
 
 ## Tools Used
 - [Nodemon](https://www.npmjs.com/package/nodemon) // dev
